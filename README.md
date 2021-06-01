@@ -1,2 +1,3 @@
-# ILFrontend
-Proyecto frontend para evaluación en Lima Innovation Lab
+**Ejercicio con fines educativos
+
+Creacion de un carrito de compras con el framework React
