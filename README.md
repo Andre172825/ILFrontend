@@ -1,3 +1,1 @@
-**Ejercicio con fines educativos
-
-Creacion de un carrito de compras con el framework React
+Ejercicio para la evaluaciónen Lima Innovation Lab
